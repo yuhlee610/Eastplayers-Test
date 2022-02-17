@@ -1,0 +1,15 @@
+header {
+  padding-top: 17px;
+  padding-bottom: 16px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  position: relative;
+  align-items: center;
+}
+
+header > .title {
+  color: #ef4638;
+  font-weight: 800;
+  font-size: 14px;
+}

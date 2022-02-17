@@ -1,0 +1,9 @@
+.country-list ul {
+    margin-top: 4px;
+}
+
+.country-list li {
+    padding: 15px 0 15px 16px;
+    border-bottom: 1px solid #EAEAEA;
+    font-weight: 700;
+}
