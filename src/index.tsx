@@ -9,7 +9,7 @@ import CountryList from "./pages/CountryList/CountryList";
 ReactDOM.render(
   <BrowserRouter>
     <Routes>
-      <Route path="home" element={<App />} />
+      <Route path="/" element={<App />} />
       <Route path="todo-list" element={<TodoList />} />
       <Route path="country-list" element={<CountryList />} />
     </Routes>
